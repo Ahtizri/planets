@@ -4,3 +4,5 @@ color
 The two moons may be a problem for Wolfman
 But the Mummy will appreciate the lack of humidity
 Noting your decision to consider Venus as a base
+It is important to note the differences between the moons in mars and in
+earth
